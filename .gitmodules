@@ -1,0 +1,9 @@
+[submodule "themes/hugo-bearblog"]
+	path = themes/hugo-bearblog
+	url = https://github.com/janraasch/hugo-bearblog.git
+[submodule "themes/hugo-ivy"]
+	path = themes/hugo-ivy
+	url = https://github.com/yihui/hugo-ivy
+[submodule "themes/hugo-bearcub"]
+	path = themes/hugo-bearcub
+	url = https://github.com/clente/hugo-bearcub
