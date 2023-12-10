@@ -1,7 +1,7 @@
 +++
 title = "阅读记录 (2023)"
 slug = "reading-log-2023"
-date = "2023-10-14T22:22:43+08:00"
+date = "2023-12-10T07:42:43+08:00"
 tags = ["reading"]
 +++
 
@@ -24,6 +24,20 @@ tags = ["reading"]
 * 碟中谍7（上）
 * 奥本海默
 * 三个傻瓜
+* 铁腕校长
+* 光辉岁月
+* 光荣之路
+* 真情电波
+* 卡特教练
+* 追梦赤子心
+* 胜利之光
+* 极速风流
+* 铁拳男人
+* 何以为家
+* 心灵访客
+* 为黛西小姐开车
+* 永不放弃
+* 你想活出怎样的人生
 
 ## 书
 
@@ -84,6 +98,21 @@ tags = ["reading"]
 * 你要如何衡量你的人生
 * Getting Real
 * Shape Up
+* The PARA Method
+* 我在100天内自学英语翻转人生
+* 中国历代散文选（上）
+* Agile Web Development with Rails 7
+* Same As Ever
+* Hidden Potential
+* Build the Life You Want
+* How to Know a Person
+* 身体从未忘记
+* 数学大师
+* 千秋一寸心
+* 不原谅也没关系
+* 信息简史
+* 你经历了什么
+* 登天之梯（第3版）
 
 ## 电视剧
 
