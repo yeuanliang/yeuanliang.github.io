@@ -1,5 +1,8 @@
 # 细水长流
 
 
-I Want to become a Digital Nomad. (2023.7.26)
+Make it work, make it right, make it fast, make it beautiful.
+
+Problems are inevitable.
+Problems are soluble.
 
