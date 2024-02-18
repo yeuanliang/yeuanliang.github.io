@@ -29,6 +29,11 @@ menu = "main"
 * [后来我有了帆船](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg4MjM3MTcwMg==&action=getalbum&album_id=2729760174181433346)
 * 怎样解题
 * 如何阅读一本书
+* 国文国语教育论典
+* 真实世界的脉络
+* 无穷的开始
+* 你经历了什么
+* 福格行为模型
 * 小而美（The Minimalist Entrepreneur）
 * [Inadequate Equilibria](https://equilibriabook.com/toc/)
 
