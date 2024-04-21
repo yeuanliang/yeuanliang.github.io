@@ -26,7 +26,11 @@ tags = ["journal","reading",]
 ## Other
 
 20日去裱字，手工裱需120元。之后去运河公园。
+
 21日陪妻子去医院，看完医生陪她去理发，理完发回，在北关清真寺旁边的拉面馆吃午饭：手抓羊肉、小碗拉面、碎肉拌面。饭后小雨，参观旁边清真寺。
+
 22日下午去通州三教庙。
+
 23日晚看[How to Start Google](https://paulgraham.com/google.html)，“So the list of what you need to do to get from here to starting a startup is quite short. You need to get good at technology, and the way to do that is to work on your own projects. And you need to do as well in school as you can, so you can get into a good university, because that's where the cofounders and the ideas are.”
+
 24日上午去取裱好的字，午饭后回房山，两点出发五点一刻到。
