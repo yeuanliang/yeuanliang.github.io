@@ -1,7 +1,7 @@
 +++
 title: "Week 025"
-date: 2024-06-23T22:56:36+08:00
-description: 20240617 - 20140623
+date: "2024-06-23T22:56:36+08:00"
+description: "20240617 - 20140623"
 tags: ["journal","reading",]
 +++
 
