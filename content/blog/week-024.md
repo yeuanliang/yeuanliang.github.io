@@ -1,8 +1,8 @@
 +++
-title: "Week 024"
-date: "2024-06-16T23:14:36+08:00"
-description: "20240610 - 20140616"
-tags: ["journal","reading",]
+title = "Week 024"
+date = "2024-06-16T23:14:36+08:00"
+description = "20240610 - 20140616"
+tags = ["journal","reading",]
 +++
 
 ## Reading log
