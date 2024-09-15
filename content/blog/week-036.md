@@ -5,7 +5,7 @@ description = "20240902 - 20240908"
 tags = ["journal","reading",]
 +++
 
-## Reading Logs
+## Reading Log
 
 * 《学习的本质》第8章-END
 * 《树之生命木之心》天卷
