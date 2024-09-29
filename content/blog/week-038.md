@@ -5,8 +5,6 @@ description = "20240916 - 20240922"
 tags = ["journal","reading",]
 +++
 
-# Week 038
-
 ## Reading Log
 
 * 《五轮书》
