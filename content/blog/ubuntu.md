@@ -84,3 +84,14 @@ plugins=([...] zsh-autosuggestions zsh-syntax-highlighting)
 p10k configure
 
 ```
+
+## mise
+
+```
+# Install
+curl https://mise.run | sh
+
+# edit .zshrc
+export PATH=$HOME/.local/bin:$PATH
+plugins=([...] mise)
+```
