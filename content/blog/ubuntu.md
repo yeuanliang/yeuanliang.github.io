@@ -45,8 +45,8 @@ scp ubuntu@ip:/home/ubuntu/.ssh/id_ed25519 ~/.ssh/
 ## oh-my-zsh + powerlevel10k
 
 ```
-# Install git fontconfig zsh etc.
-sudo apt install git vim fontconfig curl zsh
+# Install terminal tools 
+sudo apt install git vim fontconfig curl zsh fzf ripgrep bat eza zoxide plocate btop fd-find tldr
 
 # Install oh-my-zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
