@@ -2,7 +2,7 @@
 title = "Week 040"
 date = "2024-10-06T22:33:04+08:00"
 description = "20240930 -20241006"
-tags = ["cs","journal","reading",]
+tags = ["journal","reading",]
 +++
 
 ## Reading Log
