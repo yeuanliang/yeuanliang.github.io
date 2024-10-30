@@ -28,7 +28,7 @@ menu = "main"
 * [Satoshi Nakamoto Institute](https://nakamotoinstitute.org/)
 * [Bitcoin is hope](https://www.hope.com/)
 * [BTC Study](https://www.btcstudy.org/)
-* [Gradually, Then Suddenly](https://unchained.com/blog/category/gradually-then-suddenly/)
+* [Gradually, Then Suddenly](https://graduallythensuddenly.xyz/)
 * [Project Euler](https://projecteuler.net/)
 * [汉典](http://www.zdic.net/)
 * [漢語大字典（第二版）](http://www.homeinmists.com/hd/index.html)
