@@ -8,7 +8,8 @@ tags = ["journal","reading",]
 
 ## Learning Log
 
-* 《文心雕龙》《[Eloquent Javascript](https://eloquentjavascript.net/)》第1-5章
+* 《文心雕龙》
+* 《[Eloquent Javascript](https://eloquentjavascript.net/)》第1-5章
 * 《欢乐一家亲》S02E24
 * 《超直白心理学》听至EP73
 
