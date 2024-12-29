@@ -1,8 +1,13 @@
 # 细水长流
 
 
-Make it work, make it right, make it fast, make it beautiful.
+Make it work,   
+Make it right,   
+Make it fast,   
+Make it beautiful.
 
-Problems are inevitable.
+---
+
+Problems are inevitable.    
 Problems are soluble.
 
