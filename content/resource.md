@@ -27,15 +27,19 @@ menu = "main"
 * [论文写作完全求生手册](https://book.douban.com/subject/36244182/)
 * [欲望的美学](https://book.douban.com/subject/35449578/)
 * [后来我有了帆船](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg4MjM3MTcwMg==&action=getalbum&album_id=2729760174181433346)
-* 怎样解题
-* 如何阅读一本书
 * 国文国语教育论典
-* 真实世界的脉络
-* 无穷的开始
-* 你经历了什么
-* 福格行为模型
+* 普林斯顿数学指南（The Princeton Companion to Mathematics）
+* 上帝创造整数（God Created the Integers）
+* 真实世界的脉络（The Fabric of Reality）
+* 无穷的开始（The Beginning of Infinity）
+* 你经历了什么（What Happened to You）
+* 我们如何面对痛苦、疾病与死亡（Kitchen Table Wisdom）
+* 福格行为模型（Tiny Habits）
+* 激发改变（Helping People Change）
+* 争论与说服（How Minds Change）
 * 小而美（The Minimalist Entrepreneur）
 * [Inadequate Equilibria](https://equilibriabook.com/toc/)
+* 超越百岁（Outlive）
 
 ## 课程
 
