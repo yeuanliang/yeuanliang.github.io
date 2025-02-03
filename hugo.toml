@@ -8,7 +8,7 @@ theme = 'hugo-bearblog'
 # Basic metadata configuration for your blog.
 title = "细水长流"
 author = "陈远良"
-copyright = "Copyright © 2023"
+copyright = "Copyright © 2025"
 languageCode = "zh-CN"
 
 # Generate a nice robots.txt for SEO
