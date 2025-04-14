@@ -5,6 +5,12 @@ description = "Ubuntu Server Setup"
 tags = ["cs","journal"]
 +++
 
+## New Sudo User Ubuntu
+
+* `adduser ubuntu`
+* `usermod -aG sudo ubuntu`
+* `su - ubuntu`
+
 ## Rename Host
 
 * `sudo nano /etc/hostname`
@@ -24,6 +30,7 @@ tags = ["cs","journal"]
 ```
 sudo vim /etc/ssh/sshd_config
 
+PermitRootLogin no
 PasswordAuthentication no
 PubkeyAuthentication yes
 ```
