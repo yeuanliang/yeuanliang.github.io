@@ -26,6 +26,12 @@ tags = ["cs","journal"]
 * `sudo -i`
 * `passwd`
 
+## Upgrade to new LTS
+
+* `sudo apt update && sudo apt upgrade`
+* `sudo do-release-upgrade`
+* `sudo apt install --install-recommends linux-generic-hwe-{lts version}`
+
 ## 强制SSH使用密钥认证
 ```
 sudo vim /etc/ssh/sshd_config
