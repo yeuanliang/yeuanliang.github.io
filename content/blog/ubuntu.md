@@ -107,4 +107,24 @@ curl https://mise.run | sh
 # edit .zshrc
 export PATH=$HOME/.local/bin:$PATH
 plugins=([...] mise)
+
+# Install ruby
+sudo apt install build-essential rustc libssl-dev libyaml-dev zlib1g-dev libgmp-dev
+mise use -g ruby
+```
+
+## [clash for linux](https://github.com/wanhebin/clash-for-linux.git)
+
+打开9090端口：`ufw allow 9090`  
+打开界面：浏览器访问`http://<ip>:9090/ui`，在`API Base URL`中输入`http://<ip>:9090`，在`Secret(optional)`中输入启动成功后输出的Secret
+
+## chromedriver
+
+`sudo apt install chromium-chromedriver`
+
+## selenium ssl proxy
+
+```
+options = Selenium::WebDriver::Options.chrome(args: ['--headless=new'])
+options.proxy = Selenium::WebDriver::Proxy.new(ssl:'PROXY_URL')
 ```
