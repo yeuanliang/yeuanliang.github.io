@@ -40,6 +40,7 @@ PermitRootLogin no
 PasswordAuthentication no
 PubkeyAuthentication yes
 ```
+
 重启服务
 ```
 sudo service ssh restart
@@ -127,4 +128,20 @@ mise use -g ruby
 ```
 options = Selenium::WebDriver::Options.chrome(args: ['--headless=new'])
 options.proxy = Selenium::WebDriver::Proxy.new(ssl:'PROXY_URL')
+```
+
+## [acme.sh](https://github.com/acmesh-official/acme.sh) 自动签发Let’s Encrypt的免费数字证书
+
+安装acme.sh：`curl https://get.acme.sh | sh -s email=my@example.com`
+
+dnsapi：`https://github.com/acmesh-official/acme.sh/wiki/dnsapi`
+
+issue a cert：`acme.sh  --issue -d example.com  -d '*.example.com'  --dns dns_cf`
+
+install the cert: 
+```
+acme.sh --install-cert -d example.com \
+--key-file       /path/to/keyfile/in/nginx/key.pem  \
+--fullchain-file /path/to/fullchain/nginx/cert.pem \
+--reloadcmd     "service nginx force-reload"
 ```
