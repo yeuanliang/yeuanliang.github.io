@@ -114,10 +114,7 @@ sudo apt install build-essential rustc libssl-dev libyaml-dev zlib1g-dev libgmp-
 mise use -g ruby
 ```
 
-## [clash for linux](https://github.com/wanhebin/clash-for-linux.git)
-
-打开9090端口：`ufw allow 9090`  
-打开界面：浏览器访问`http://<ip>:9090/ui`，在`API Base URL`中输入`http://<ip>:9090`，在`Secret(optional)`中输入启动成功后输出的Secret
+## [clash for lab](https://github.com/SaladDay/clash-for-lab)
 
 ## chromedriver
 
