@@ -7,7 +7,7 @@ tags = ["journal","reading"]
 
 ## Reading Log
 * 《高能量沟通》第4章至结尾
-* 《见字如来》至“病字仍需识字医》
+* 《见字如来》至“病字仍需识字医“
 
 ## Other
 
